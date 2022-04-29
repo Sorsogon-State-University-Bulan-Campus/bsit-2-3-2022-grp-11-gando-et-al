@@ -1,5 +1,5 @@
 
-# ⚙️📱Digital Technology📱⚙️
+# Digital Technology📱⚙️
 
 Digital technologies are electronic instruments, systems, devices, and resources that produce, store, or process data. The goal of this project is to identified and understand more like how the social networking, online gaming, multimedia, and mobile phones works.
 
@@ -17,7 +17,7 @@ It can foster a sense of community and promote the assistance of friends. It has
 
 ## Authors
 
-- [Julius Perez Gando](https://github.com/Julius-14)
+- [Julius Perez Gando][@juliusgando](https://github.com/Julius-14)
 
 ## References
 
