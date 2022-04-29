@@ -10,7 +10,7 @@ Digital technologies are electronic instruments, systems, devices, and resources
 
 Digital technologies have advanced faster than any other breakthrough in history, reaching over half of the developing world's population in barely two decades and altering society. Technology can be a huge equalizer through improving connection, financial inclusion, trade access, and access to public services.
 
-#### Is digital technology making better?
+#### Is digital technology making life better?
 
 It can foster a sense of community and promote the assistance of friends. It has the potential to motivate individuals to seek assistance and exchange information and resources. More regular usage of social media has been linked to an enhanced capacity to share and comprehend the emotions of others.
 
