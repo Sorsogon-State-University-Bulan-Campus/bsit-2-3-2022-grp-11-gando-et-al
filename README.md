@@ -1,5 +1,5 @@
 
-# Digital Technology ⚙️📱
+# Digital Technology 📱⚙️
 
 Digital technologies are electronic instruments, systems, devices, and resources that produce, store, or process data. The goal of this project is to identified and understand more like how the social networking, online gaming, multimedia, and mobile phones works.
 
