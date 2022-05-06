@@ -3,6 +3,7 @@
 
 Digital technologies are electronic instruments, systems, devices, and resources that produce, store, or process data. The goal of this project is to identified and understand more like how the social networking, online gaming, multimedia, and mobile phones works.
 
+Huge volumes of data may be compressed using digital technology and stored on compact storage devices that can be readily protected and moved. Digitization also speeds up data transfer. People's communication, learning, and working habits have all been revolutionized by digital technology.
 
 ## FAQ 🤔❓
 
