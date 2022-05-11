@@ -24,12 +24,16 @@ It can foster a sense of community and promote the assistance of friends. It has
 ## Advatages
 
 - Social Connectivity. Digital technology makes it easy to stay in touch with friends, family, and work remotely, even if you are in another part of the world. 
-- Communication Speeds
-- Versatile Working
-- Learning Opportunities
+- Compactness
+- Connectivity
+- Keeps you Updated
+- Speedy Technology
+- Versatile
+- Global Access Advantage
 - Automation
-- Information Storage
-- Editing
+- Modern-day Transportation
+- Accessible Banking and Finance
+- Portable Devices
 
 ## Disadvantages
 
@@ -42,9 +46,17 @@ It can foster a sense of community and promote the assistance of friends. It has
 - Digital Media Manipulation.
 - Job Insecurity.
 
+## Benefits
+
+Today's digital technology has altered modern living by providing endless advantages. Nowadays, we all carry smartphones, which are essentially a miniature computer, a storage device, and a camera with artificial intelligence and comfort.
+
+Modern technology has drastically changed the way we travel, work, shop, communicate, and enjoy ourselves.
+
+In recent decades, digital technology has undergone steady change. It's increasingly uncommon to come across an electrical item or piece of machinery that doesn't use digital technology, making older technology obsolete.
+
 ## Authors
 
-- [Julius Perez Gando][@juliusgando](https://github.com/Julius-14)
+- [Julius Perez Gando][@Julius-14](https://github.com/Julius-14)
 
 ## References
 
@@ -54,3 +66,4 @@ It can foster a sense of community and promote the assistance of friends. It has
 - [Source 4](https://acse.edu.au/blog/importance-of-digital-technology-in-todays-world/)
 - [Source 5](https://turbofuture.com/misc/Disadvantages-of-Digital-Technology)
 - [Source 6](https://blog.universalbusinessschool.com/village-roadshow-entertainment-secures-480-million/)
+- [Source 7](https://tenbenefits.com/10-benefits-of-digital-technology/)
